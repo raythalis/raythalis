@@ -1,7 +1,7 @@
-# Hi, I'm Jory Pai 👋
+# Hi, I'm RAYTHALIS 👋
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoryPai&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoryPai&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raythalis&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raythalis&layout=compact&theme=radical)
 
 ## 🛠 Skills
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
@@ -12,5 +12,5 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JoryPai&theme=radical)
 
 ## 🔭 Projects
-- [Project A](https://github.com/JoryPai/project-a) - Awesome project
-- [Project B](https://github.com/JoryPai/project-b) - Another cool project
+- [Project A](https://github.com/raythalis/project-a) - Awesome project
+- [Project B](https://github.com/raythalis/project-b) - Another cool project
