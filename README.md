@@ -9,8 +9,4 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ## 📈 GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JoryPai&theme=radical)
-
-## 🔭 Projects
-- [Project A](https://github.com/raythalis/project-a) - Awesome project
-- [Project B](https://github.com/raythalis/project-b) - Another cool project
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=raythalis&theme=radical)
